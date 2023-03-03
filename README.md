@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Html, CSS and JavaScript**
 
-- 📫 How to reach me **Shiineali101@gmail.com**
+- 📫 How to reach me **Mig7690@uw.edu**
 
 - ⚡ Fun fact **I think I am funy**
 
