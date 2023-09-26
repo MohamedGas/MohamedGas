@@ -3,8 +3,8 @@
 
 - 🔭 Graduated @UW
 - Software Engineer @Expedia Group
-- 🌱 I’m currently curious web and backend development.
-- 👯 I’m looking to collaborate on open source projects.
+- 🌱 I’m currently curious about web and backend development.
+- 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about [Java](https://www.java.com/en/), [SpringBoot](https://spring.io/).
 - 👀 I’m interested in: 
    * API || OOP || Clean Code
