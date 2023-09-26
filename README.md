@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+%40Eng-Mohamed-Gas+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
-- 🔭 I’m currently my last year university at UW 
+- 🔭 Graduated @UW
+- Software Engineer @Expedia Group
 - 🌱 I’m currently curious web and backend development.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about [Java](https://www.java.com/en/), [SpringBoot](https://spring.io/).
